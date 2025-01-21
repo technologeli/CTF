@@ -19,7 +19,7 @@ In `index.js`, we get two routes:
 In `schema.prisma` we learn that posts are either published or unpublished.
 
 In `seed.js` we learn the users' names and that their passwords are random. We also find that there is an unpublished post that contains the flag:
-```json
+```js
 {
 	title: `The Flag`,
 	body: `This is a secret blog I am still working on. The secret keyword for this blog is ${FLAG}`,
