@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "b1d10a81bb8741aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "8fe5d37a3a9e0758",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41f00ca2eae57e30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writeups/2025/UofTCTF/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e57eb110b60f2593",
+    "type": "split",
+    "children": [
+      {
+        "id": "df8da889e4c3ce70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f47c490e4bfa9d15",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "be3f2a8fd33c20d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4ba9242a965067db",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bf45760b51cc0b14",
+    "type": "split",
+    "children": [
+      {
+        "id": "945f990992a832ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d50f0644f3d9eca9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Writeups/2025/UofTCTF/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "f1c4e17523753d56",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Writeups/2025/UofTCTF/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "a68744425a7c9000",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "67ad75983b1fa507",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Writeups/2025/UofTCTF/README.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "41f00ca2eae57e30",
+  "lastOpenFiles": [
+    "Writeups/2025/UofTCTF/Prismatic Blogs/Writeup.md",
+    "Writeups/2025/UofTCTF/README.md",
+    "Media/Pasted image 20250121135033.png",
+    "Media/Pasted image 20250121134906.png",
+    "Writeups/2025/UofTCTF/Prismatic Blogs/solve.py~",
+    "requirements.txt",
+    "Writeups/2025/UofTCTF/Prismatic Blogs/solve.py",
+    "Writeups/Untitled",
+    "Problems/2025/UofTCTF",
+    "Problems/2025",
+    "Problems",
+    "Media",
+    "Media/Pasted image 20250121131821.png",
+    "Writeups/2025/UofTCTF/Prismatic Blogs/dist/package.json",
+    "Writeups/2025/UofTCTF/Prismatic Blogs/dist/index.js",
+    "README.md"
+  ]
+}
