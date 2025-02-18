@@ -2,5 +2,6 @@
   "vimMode": true,
   "showInlineTitle": false,
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "Media"
+  "attachmentFolderPath": "Media",
+  "spellcheck": false
 }
